@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+[Click me](http://www.google.com){: .btn}
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
