@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <input type="submit" name="button" onclick="http://www.google.com">Click me
 [Click me](http://www.google.com){: .btn}
 
+<a href="https://github.com/deepakkoranne/saptshringidevi" class="btn">View on GitHub</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
