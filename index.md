@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/deepakkoranne/saptshringid
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-[Click me](http://www.google.com){clk: .btn}
+<input type="submit" name="button" onclick="http://www.google.com">Click me
+[Click me](http://www.google.com){: .btn}
 
 ### Markdown
 
