@@ -4,11 +4,7 @@ You can use the [editor on GitHub](https://github.com/deepakkoranne/saptshringid
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<button name="button">[Click me](http://www.google.com){: .btn} Click me</button>
-
-[Click me](http://www.google.com){: .btn}
-
-<a href="https://github.com/deepakkoranne/saptshringidevi" class="btn">**View on GitHub**</a>
+{% include button.html url="http://www.google.com" %}
 
 ### Markdown
 
