@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/deepakkoranne/saptshringid
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Click me](http://www.google.com){: .btn}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -20,7 +22,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-[Click me](http://www.google.com){: .btn}
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
