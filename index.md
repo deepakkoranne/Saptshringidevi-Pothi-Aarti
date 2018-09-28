@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Click me](http://www.google.com){: .btn}
 
-<a href="https://github.com/deepakkoranne/saptshringidevi" class="btn">View on GitHub</a>
+<a href="https://github.com/deepakkoranne/saptshringidevi" class="btn">**View on GitHub**</a>
 
 ### Markdown
 
