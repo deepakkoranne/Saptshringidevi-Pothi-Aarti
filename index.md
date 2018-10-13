@@ -13,19 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Sapthshring Devi Pothi
+# Header 1 <Sapthshring Devi Pothi>
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](C:\\Users\AG Office\Desktop\sapthshringdevi_pothi_arti_mantrapushpanjali.doc) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
